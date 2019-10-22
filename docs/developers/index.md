@@ -137,12 +137,16 @@ Ethereum has a large and growing number of tools to help developers build, test,
 ### Cloudflare Ethereum Gateway
 - [cloudflare-eth.com](https://cloudflare-eth.com)
 
+### Nodesmith *JSON-RPC API access to Ethereum mainnet and testnets*
+- [nodesmith.io](https://nodesmith.io)
+
 ## Storage
 
 ### IPFS *InterPlanetary File System is a decentralized storage and file referencing system for Ethereum.*
 - [ipfs.io](https://ipfs.io/)
 
 ### Swarm *A distributed storage platform and content distribution service for the Ethereum web3 stack.*
+- [Swarm](https://ethersphere.github.io/swarm-home/)
 
 ### OrbitDB *A decentralized peer to peer database on top of IPFS.*
 - [github](https://github.com/orbitdb/orbit-db)
@@ -201,10 +205,12 @@ The Ethereum community maintains multiple testnets. These are used by developers
 
 ### Rinkeby *Proof of Authority blockchain, maintained by the Geth development team*
 - [Test-ether faucet](https://faucet.rinkeby.io/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
 ### Goerli *Cross-client Proof of Authority blockchain, built and maintained by the Goerli community*
 - [Test-ether faucet](https://faucet.goerli.mudit.blog/)
 - [goerli.net](https://goerli.net/)
+- [Universal faucet](https://faucets.blockxlabs.com)
 
 ## Clients & Running your own node
 The Ethereum network is made up of many nodes who run compatible client software. The majority of these nodes run [Geth](https://geth.ethereum.org/) or [Parity](https://www.parity.io/ethereum/), each of which can be configured in different ways according to your needs.
